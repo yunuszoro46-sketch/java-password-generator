@@ -1,1 +1,5 @@
 src/javaBro/JavaProject1.java
+.settings/
+.classpath
+.project
+bin/
